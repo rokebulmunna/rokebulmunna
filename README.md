@@ -93,9 +93,9 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rokebulmunna&show_icons=true&locale=en" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rokebulmunna&show_icons=true&theme=default" alt="Rokebul's GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokebulmunna&layout=compact&locale=en" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokebulmunna&layout=compact&theme=default" alt="Rokebul's Top Languages"/>
 </p>
