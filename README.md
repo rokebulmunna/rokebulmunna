@@ -92,10 +92,8 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rokebulmunna&show_icons=true&theme=default" alt="Rokebul's GitHub Stats"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rokebulmunna&show_icons=true&locale=en&layout=compact" alt="rokebulmunna" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokebulmunna&layout=compact&theme=default" alt="Rokebul's Top Languages"/>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rokebulmunna&show_icons=true&locale=en" alt="rokebulmunna" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rokebulmunna&" alt="rokebulmunna" /></p>
